@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'saira_extra_bold';
+    src: url('fonts/sairaextracondensed-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'saira_extra_extrabold';
+    src: url('fonts/sairaextracondensed-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'saira_extra_reg';
+    src: url('fonts/sairaextracondensed-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'saira_extra_thin';
+    src: url('fonts/sairaextracondensed-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'staat';
+    src: url('staatliches-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
